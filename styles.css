@@ -112,7 +112,7 @@ body {
 
   .user-input {
     position: absolute;
-    top: 65vw;
+    top: 75vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
